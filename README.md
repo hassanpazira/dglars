@@ -13,6 +13,8 @@ install.packages("dglars")
 
 ```
 if(!require(devtools)) {install.packages("devtools"); library(devtools)}
+
 devtools::install_github("hassanpazira/dglars", local = TRUE)
+
 library(dglars)
 ```
