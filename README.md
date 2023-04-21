@@ -25,5 +25,5 @@ library(dglars)
 ## Documentation:
 
 * Here are the [R Reference manual](https://CRAN.R-project.org/package=dglars/dglars.pdf) and [Package Website](https://cran.r-project.org/web/packages/dglars/index.html)
-* Here are the technical papers of the package: i) (https://www.jstatsoft.org/article/view/v059i08); and ii) (https://rj.urbanek.nz/articles/RJ-2022-008/)
+* Here are the technical papers of the package: i) [The R Journal] (https://www.jstatsoft.org/article/view/v059i08); and ii) [The R Journal] (https://rj.urbanek.nz/articles/RJ-2022-008/)
 
