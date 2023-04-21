@@ -1,4 +1,4 @@
-[![R-CMD-check](https://github.com/ropensci/dglars/workflows/R-CMD-check/badge.svg)](https://github.com/ropensci/dglars/actions)
+[![Coverage Status](https://coveralls.io/repos/github/hassanpazira/dglars/badge.svg?branch=master)](https://coveralls.io/github/hassanpazira/dglars?branch=master)
 [![CRAN status](http://www.r-pkg.org/badges/version/dglars)](http://cran.r-project.org/web/packages/dglars/index.html)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/last-month/dglars)](http://cran.r-project.org/web/packages/dglars/index.html)
 
