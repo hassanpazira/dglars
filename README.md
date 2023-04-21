@@ -13,16 +13,8 @@ install.packages("dglars")
 
 ```
 if(!require(devtools)) {install.packages("devtools"); library(devtools)}
-```
 
-Now install `dglars` as follows:
-
-```
 devtools::install_github("hassanpazira/dglars", local = TRUE)
-```
 
-The package can now be loaded into R and used:
-
-```
 library(dglars)
 ```
