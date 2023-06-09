@@ -10,6 +10,8 @@
 
 ```
 install.packages("dglars")
+
+library(dglars)
 ```
 
 - Install the `dglars` package directly from **Github**:
