@@ -14,15 +14,6 @@ install.packages("dglars")
 library(dglars)
 ```
 
-- Install the `dglars` package directly from **Github**:
-
-```
-if(!require(devtools)) {install.packages("devtools"); library(devtools)}
-
-devtools::install_github("hassanpazira/dglars")
-
-library(dglars)
-```
 
 ## Documentation:
 
